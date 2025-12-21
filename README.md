@@ -39,7 +39,7 @@
 ## 📈 Activity & Contributions
 
 ### ⚡ Activity Graph
-[![sungyu-sung's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sungyu-sung&theme=react&bg_color=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![sungyu-sung's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sungyu-sung&bg_color=ffffff&color=00568B&line=22314E&point=77B900&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🐍 Contribution Snake(준비중)
 

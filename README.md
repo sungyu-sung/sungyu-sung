@@ -1,24 +1,41 @@
-# 👋 안녕하세요, 성선규입니다.
+# 👨‍💻 안녕하세요, 성선규입니다.
 
-### 🚀 "이제 막 깃허브 걸음마를 시작했습니다."
-
-- 🔭 현재 **[부트캠프와 로봇 액추에이터 툴 학습]**에 집중하고 있습니다.
-- 🌱 **[로봇 액추에이터, 감속기, 펌웨어 개발]**에 관심이 많습니다.
-- 💬 **[기계공학, 로보틱스]**에 대해 이야기 나누는 것을 좋아합니다.
-- 📫 연락처: [sunq0726@gmail.com]
+로봇 개발자로서 첫 발을 내딛는 **성선규**입니다.  
+신뢰성 있는 액추에이터로 시장 경쟁력을 확보하고, 누군가에게는 새로운 삶의 기회를 제공하는 기술을 목표합니다.
 
 ---
 
-### 🛠 Tech Stacks
+### 🎓 Education
+* **세종대학교 기계공학전공** (공학사 / 기계공학심화)
+    * 2018.03 ~ 2023.02 졸업
 
-<p align="left">
-  <img src="https://img.shields.io/badge/CATIA-00568B?style=flat-square&logo=3ds&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Autodesk_Inventor-B41716?style=flat-square&logo=autodesk&logoColor=white"/>
-</p>
+### 🎖️ Military Service
+* **육군 중위 만기전역** (보병 / ROTC)
+    * 2023.03 ~ 2025.06
+    * 소대장, 작전장교
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack & Tools
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[sungyu-sung]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[sungyu-sung]&layout=compact&theme=radical)
+**[ Design & Modeling ]** ![CATIA](https://img.shields.io/badge/CATIA-00568B?style=flat&logo=3ds&logoColor=white) 
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-B11116?style=flat&logo=autodesk&logoColor=white)
+
+**[ Programming & Framework ]** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![ROS](https://img.shields.io/badge/ROS_1-22314E?style=flat&logo=ros&logoColor=white)
+
+---
+
+### 📚 Currently Learning
+로봇 시스템의 깊이를 더하기 위해 아래 기술들을 집중적으로 학습하고 있습니다.
+
+**[ Framework ]** ![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
+
+**[ Advanced CAD ]** ![PTC Creo](https://img.shields.io/badge/PTC_Creo-77B900?style=flat) 
+![Siemens NX](https://img.shields.io/badge/Siemens_NX-005F87?style=flat&logo=siemens&logoColor=white)
+
+---
+
+### ✉️ Contact & Links
+* **Email**: sunq0726@gmail.com
+* **Portfolio**: 

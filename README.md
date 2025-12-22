@@ -32,8 +32,9 @@
 
 **[ Framework ]** ![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
 
-**[ Advanced CAD ]** ![PTC Creo](https://img.shields.io/badge/PTC_Creo-77B900?style=flat) 
-![Siemens NX](https://img.shields.io/badge/Siemens_NX-005F87?style=flat&logo=siemens&logoColor=white)
+**[ Advanced CAD & CAE ]** ![PTC Creo](https://img.shields.io/badge/PTC_Creo-77B900?style=flat) 
+![Siemens NX](https://img.shields.io/badge/Siemens_NX-005F87?style=flat&logo=siemens&logoColor=white) 
+![Ansys](https://img.shields.io/badge/Ansys-FFB71B?style=flat&logo=ansys&logoColor=black)
 
 ---
 

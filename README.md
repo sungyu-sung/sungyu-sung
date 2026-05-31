@@ -34,16 +34,17 @@
 
 **[ AI / Vision ]**
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-0052CC?style=flat&logo=ultralytics&logoColor=white)
 
 **[ Simulation ]**
 ![Gazebo](https://img.shields.io/badge/Gazebo-F7A41D?style=flat)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat&logo=nvidia&logoColor=white)
 
 **[ Design & Modeling ]**
-![CATIA](https://img.shields.io/badge/CATIA-00568B?style=flat&logo=3ds&logoColor=white)
-![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-B11116?style=flat&logo=autodesk&logoColor=white)
+![CATIA](https://img.shields.io/badge/CATIA-00568B?style=flat&logo=dassaultsystemes&logoColor=white)
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-F5A623?style=flat&logo=autodesk&logoColor=black)
 
 **[ Currently Learning ]**
-![ROS2](https://img.shields.io/badge/ROS_2_(심화)-22314E?style=flat&logo=ros&logoColor=white)
 ![Ansys](https://img.shields.io/badge/Ansys-FFB71B?style=flat&logo=ansys&logoColor=black)
 ![Siemens NX](https://img.shields.io/badge/Siemens_NX-005F87?style=flat&logo=siemens&logoColor=white)
 

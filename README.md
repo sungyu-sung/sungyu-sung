@@ -60,6 +60,7 @@
     <th>프로젝트</th>
     <th>설명</th>
     <th>기술 스택</th>
+    <th>기간</th>
     <th>링크</th>
   </tr>
   <tr>
@@ -67,6 +68,7 @@
     <td><b>🔄 ALFRED</b></td>
     <td>교통허브 내 다중 AMR 릴레이 에스코트 시스템</td>
     <td>ROS2, Nav2, 멀티로봇</td>
+    <td>2026.05.29 ~ 2026.06.12</td>
     <td><i>진행중</i></td>
   </tr>
   <tr>
@@ -74,6 +76,7 @@
     <td><b>🪐 DOGECRAFT</b></td>
     <td>화성탐사 로버 시뮬레이터</td>
     <td>ROS2, Isaac SIM, Python</td>
+    <td>2026.05.14 ~ 2026.05.28</td>
     <td><a href="https://github.com/sungyu-sung/a-2_isaac">GitHub</a></td>
   </tr>
   <tr>
@@ -81,6 +84,7 @@
     <td><b>🔧 Doob-E</b></td>
     <td>공구 인식 및 정리 어시스턴트 로봇</td>
     <td>ROS2, YOLO(OBB, Keypoints), Python</td>
+    <td>2026.04.28 ~ 2026.05.13</td>
     <td><a href="https://github.com/sungyu-sung/doob-e">GitHub</a></td>
   </tr>
   <tr>
@@ -88,6 +92,7 @@
     <td><b>🍧 어미새</b></td>
     <td>컵빙수 자동 제조 로봇</td>
     <td>ROS2, Python</td>
+    <td>2026.04.14 ~ 2026.04.27</td>
     <td><a href="https://github.com/sungyu-sung/mother_bird">GitHub</a></td>
   </tr>
 </table>

@@ -104,24 +104,28 @@
     <th>프로젝트</th>
     <th>설명</th>
     <th>기술 스택</th>
+    <th>기간</th>
   </tr>
   <tr>
     <td>3</td>
     <td><b>실내 자율주행 배달 AMR</b></td>
     <td>실내 환경 자율주행 물품 배달 로봇</td>
     <td>ROS, SLAM, Python, System Integration</td>
+    <td>2022.09 ~ 2022.12</td>
   </tr>
   <tr>
     <td>2</td>
     <td><b>CV기반 지하철 승객 분산 시스템</b></td>
     <td>카메라 기반 혼잡도 분석 및 분산 안내 시스템</td>
     <td>Python, CNN</td>
+    <td>2022.03 ~ 2022.06</td>
   </tr>
   <tr>
     <td>1</td>
     <td><b>얼굴인식 자동 선반</b></td>
     <td>얼굴 인식으로 사용자별 물품 자동 분류·제공</td>
     <td>CATIA</td>
+    <td>2022.03 ~ 2022.06</td>
   </tr>
 </table>
 

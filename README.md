@@ -109,7 +109,7 @@
     <td>3</td>
     <td><b>실내 자율주행 배달 AMR</b></td>
     <td>실내 환경 자율주행 물품 배달 로봇</td>
-    <td>ROS, SLAM, Python</td>
+    <td>ROS, SLAM, Python, System Integration</td>
   </tr>
   <tr>
     <td>2</td>
@@ -121,7 +121,7 @@
     <td>1</td>
     <td><b>얼굴인식 자동 선반</b></td>
     <td>얼굴 인식으로 사용자별 물품 자동 분류·제공</td>
-    <td>Python, 기구설계</td>
+    <td>CATIA</td>
   </tr>
 </table>
 

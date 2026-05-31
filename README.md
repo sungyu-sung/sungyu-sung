@@ -73,21 +73,21 @@
     <td>3</td>
     <td><b>🪐 DOGECRAFT</b></td>
     <td>화성탐사 로버 시뮬레이터</td>
-    <td>ROS2, Gazebo, Python</td>
+    <td>ROS2, Isaac SIM, Python</td>
     <td><a href="#">GitHub</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td><b>🔧 Doob-E</b></td>
     <td>공구 인식 및 정리 어시스턴트 로봇</td>
-    <td>ROS2, OpenCV, Python</td>
+    <td>ROS2, YOLO(OBB, Keypoints), Python</td>
     <td><a href="#">GitHub</a></td>
   </tr>
   <tr>
     <td>1</td>
     <td><b>🍧 어미새</b></td>
     <td>컵빙수 자동 제조 로봇</td>
-    <td>ROS2, Python, 로봇팔 제어</td>
+    <td>ROS2, Python</td>
     <td><a href="#">GitHub</a></td>
   </tr>
 </table>
@@ -115,13 +115,13 @@
     <td>2</td>
     <td><b>CV기반 지하철 승객 분산 시스템</b></td>
     <td>카메라 기반 혼잡도 분석 및 분산 안내 시스템</td>
-    <td>Python, OpenCV</td>
+    <td>Python, CNN</td>
   </tr>
   <tr>
     <td>1</td>
     <td><b>얼굴인식 자동 선반</b></td>
     <td>얼굴 인식으로 사용자별 물품 자동 분류·제공</td>
-    <td>Python, OpenCV, 얼굴인식</td>
+    <td>Python, 기구설계</td>
   </tr>
 </table>
 

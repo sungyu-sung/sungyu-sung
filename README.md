@@ -1,75 +1,153 @@
-# 👨‍💻 안녕하세요, 성선규입니다.
+<div align="center">
 
-로봇 개발자의 여정을 시작한 **성선규** 입니다.
+<h1>👋 안녕하세요, 성선규입니다</h1>
+<h3>Robotics Engineer — 기술로 신체의 한계를 극복하는 로봇을 만듭니다</h3>
 
-궁극적으로, 완성도 있는 **의족과 의수** 개발로
-선천적, 후천적 신체 장애자들의 꿈의 한계를 없애려고 합니다.
+<br/>
 
-이를 위해 로보틱스를 다방면으로 공부하고 경험하며 미래를 준비하고 있습니다.
+[![Gmail](https://img.shields.io/badge/sunq0726@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sunq0726@gmail.com)
 
----
-제 장점은?(같이 일하면 기가 막힐거에요~)
-
-* **1. 압도적 시간투자**
-     * 안되면 되게하라, 목표를 위해서 시간/돈 아끼지 않습니다. 언제 어디서든 **성과, 마침표**를 찍습니다.
-     * 육군 중위시절 작전장교 1년, 자발적으로 **1년간 평균 하루 12H** 근무했습니다. 일이 잘 돌아가는게 좋아서. 초과근무 인정시간 넘겨도, 부대 잘 돌아가게 하는게 우선이었습니다.
-* **2. 근면성실함**
-     * 초, 중, 고 12년 개근
-     * 근면성실함을 위한 체력관리(복싱과 러닝, 헬스가 취미)
-     * 불성실하다는 말은 **일~절** 들은 적 없습니다. 왜 이렇게 열심히 하냐는 말은 **많이** 들어봤습니다. ^^
-* **3. 친화력**
-     * 사람들에게 잘 다가갑니다. 왜냐? 스스로에게 자신감이 있으니깐. 혼자여도 행복하니깐.
-     * 사람들과 얼굴 붉히지 않습니다. 왜냐? 감정이 쌓이기 전에 '젠틀한' 대화로 푸니깐.
-     * 두루두루 잘 지냅니다. 왜냐? 겪어보기 전까지 그 사람을 단정하지 않으니깐. 내가 감히 그 사람을 멋대로 판단하지 않으니깐.
-
+</div>
 
 ---
 
-### TimeLine
-* **세종대학교 기계공학전공** (공학사 / 기계공학심화)
-    * 2018.03 ~ 2023.02 졸업
+## 🎯 About Me
 
-* **육군 중위 만기전역** (보병 / ROTC)
-    * 2023.03 ~ 2025.06
-    * 소대장, 작전장교
-    * 국방부장관상 수상(6.25 전사자 유해발굴 공로), 선봉소대 달성
+세종대학교 기계공학과를 졸업하고, 육군 중위로 복무하며 **실행력과 리더십**을 키웠습니다.
+현재 두산로보틱스 ROKEY 부트캠프에서 실전 로보틱스 개발 역량을 쌓고 있으며,
+4번의 팀 프로젝트 모두 **PM(팀장)** 으로 기획부터 구현까지 이끌었습니다.
 
-* **두산로보틱스 ROKEY 부트캠프 7기**
-    * 2025.12 ~ 2026.06(진행중)
-    * 4차례의 실무 프로젝트에 모두 PM(팀장)으로 활약중입니다.
+궁극적인 목표는 **의족과 의수 개발**입니다.
+선천적·후천적 신체 장애를 가진 분들이 꿈의 한계 없이 살아갈 수 있도록,
+로보틱스를 다방면으로 공부하고 경험하며 그 날을 준비하고 있습니다.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-**[ Design & Modeling ]** ![CATIA](https://img.shields.io/badge/CATIA-00568B?style=flat&logo=3ds&logoColor=white) 
-![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-B11116?style=flat&logo=autodesk&logoColor=white)
-
-**[ Programming & Framework ]** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+**[ Robotics & Framework ]**
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS_1-22314E?style=flat&logo=ros&logoColor=white)
 
----
+**[ Programming ]**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 📚 Currently Learning
-로봇 시스템의 깊이를 더하기 위해 아래 기술들을 집중적으로 학습하고 있습니다.
+**[ AI / Vision ]**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-**[ Framework ]** ![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
+**[ Simulation ]**
+![Gazebo](https://img.shields.io/badge/Gazebo-F7A41D?style=flat)
 
-**[ Advanced CAD & CAE ]** ![PTC Creo](https://img.shields.io/badge/PTC_Creo-77B900?style=flat) 
-![Siemens NX](https://img.shields.io/badge/Siemens_NX-005F87?style=flat&logo=siemens&logoColor=white) 
+**[ Design & Modeling ]**
+![CATIA](https://img.shields.io/badge/CATIA-00568B?style=flat&logo=3ds&logoColor=white)
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-B11116?style=flat&logo=autodesk&logoColor=white)
+
+**[ Currently Learning ]**
+![ROS2](https://img.shields.io/badge/ROS_2_(심화)-22314E?style=flat&logo=ros&logoColor=white)
 ![Ansys](https://img.shields.io/badge/Ansys-FFB71B?style=flat&logo=ansys&logoColor=black)
+![Siemens NX](https://img.shields.io/badge/Siemens_NX-005F87?style=flat&logo=siemens&logoColor=white)
 
 ---
 
-## 📈 Activity & Contributions
+## 🤖 Projects
 
-### ⚡ Activity Graph
+### 🔵 ROKEY 부트캠프 프로젝트 *(두산로보틱스, 2025.12 ~)*
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>프로젝트</th>
+    <th>설명</th>
+    <th>기술 스택</th>
+    <th>링크</th>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td><b>🔄 ALFRED</b></td>
+    <td>교통허브 내 다중 AMR 릴레이 에스코트 시스템</td>
+    <td>ROS2, Nav2, 멀티로봇</td>
+    <td><i>진행중</i></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><b>🪐 DOGECRAFT</b></td>
+    <td>화성탐사 로버 시뮬레이터</td>
+    <td>ROS2, Gazebo, Python</td>
+    <td><a href="#">GitHub</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><b>🔧 Doob-E</b></td>
+    <td>공구 인식 및 정리 어시스턴트 로봇</td>
+    <td>ROS2, OpenCV, Python</td>
+    <td><a href="#">GitHub</a></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><b>🍧 어미새</b></td>
+    <td>컵빙수 자동 제조 로봇</td>
+    <td>ROS2, Python, 로봇팔 제어</td>
+    <td><a href="#">GitHub</a></td>
+  </tr>
+</table>
+
+> 4개 프로젝트 전부 **PM(팀장)** 으로 참여
+
+---
+
+### 🟢 대학교 프로젝트 *(세종대학교, ~2023)*
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>프로젝트</th>
+    <th>설명</th>
+    <th>기술 스택</th>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><b>실내 자율주행 배달 AMR</b></td>
+    <td>실내 환경 자율주행 물품 배달 로봇</td>
+    <td>ROS, SLAM, Python</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><b>CV기반 지하철 승객 분산 시스템</b></td>
+    <td>카메라 기반 혼잡도 분석 및 분산 안내 시스템</td>
+    <td>Python, OpenCV</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><b>얼굴인식 자동 선반</b></td>
+    <td>얼굴 인식으로 사용자별 물품 자동 분류·제공</td>
+    <td>Python, OpenCV, 얼굴인식</td>
+  </tr>
+</table>
+
+---
+
+## 📅 Timeline
+
+```
+2018.03 ~ 2023.02  세종대학교 기계공학전공 졸업 (공학사 / 기계공학심화)
+
+2023.03 ~ 2025.06  육군 중위 만기전역 (보병 / ROTC)
+                   └ 소대장, 작전장교 역임
+                   └ 🏅 국방부장관상 수상 (6.25 전사자 유해발굴 공로)
+
+2025.12 ~ 2026.06  두산로보틱스 ROKEY 부트캠프 7기 (진행중)
+                   └ 4개 팀 프로젝트 전원 PM(팀장) 담당
+```
+
+---
+
+## 📊 GitHub Activity
+
 [![sungyu-sung's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sungyu-sung&bg_color=ffffff&color=00568B&line=22314E&point=77B900&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🐍 Contribution Snake(준비중)
-
 ---
 
-### ✉️ Contact & Links
-* **Email**: sunq0726@gmail.com
-* **Portfolio**:
+## 📬 Contact
+
+- 📧 **Email**: [sunq0726@gmail.com](mailto:sunq0726@gmail.com)
+- 💼 **Portfolio**: *(추가 예정)*

@@ -142,6 +142,17 @@
 
 ---
 
+## 📜 자격 / 어학
+
+| 자격증 | 발급기관 | 취득 |
+|--------|----------|------|
+| 일반기계기사 | 한국산업인력공단 | 2025.12 |
+| 컴퓨터활용능력 2급 | 대한상공회의소 | 2025.07 |
+| OPIc IM2 | ACTFL | 2025.07 |
+| 자동차운전면허 1종보통 | 경기도남부경찰청 | 2019.05 |
+
+---
+
 ## 📊 GitHub Activity
 
 [![sungyu-sung's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sungyu-sung&bg_color=ffffff&color=00568B&line=22314E&point=77B900&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)

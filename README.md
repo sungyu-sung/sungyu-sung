@@ -74,21 +74,21 @@
     <td><b>🪐 DOGECRAFT</b></td>
     <td>화성탐사 로버 시뮬레이터</td>
     <td>ROS2, Isaac SIM, Python</td>
-    <td><a href="#">GitHub</a></td>
+    <td><a href="https://github.com/sungyu-sung/a-2_isaac">GitHub</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td><b>🔧 Doob-E</b></td>
     <td>공구 인식 및 정리 어시스턴트 로봇</td>
     <td>ROS2, YOLO(OBB, Keypoints), Python</td>
-    <td><a href="#">GitHub</a></td>
+    <td><a href="https://github.com/sungyu-sung/doob-e">GitHub</a></td>
   </tr>
   <tr>
     <td>1</td>
     <td><b>🍧 어미새</b></td>
     <td>컵빙수 자동 제조 로봇</td>
     <td>ROS2, Python</td>
-    <td><a href="#">GitHub</a></td>
+    <td><a href="https://github.com/sungyu-sung/mother_bird">GitHub</a></td>
   </tr>
 </table>
 

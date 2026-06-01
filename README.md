@@ -115,8 +115,8 @@
   <tr>
     <td>3</td>
     <td><b>실내 자율주행 배달 AMR</b></td>
-    <td>실내 환경 자율주행 물품 배달 로봇</td>
-    <td>ROS, Python, SLAM, STT, CV(Face Detection)</td>
+    <td>실내환경 자율주행 물품 배달 로봇</td>
+    <td>ROS, Python, SLAM, STT, CV(Face Detection), Raspberry Pi, Arduino</td>
     <td>2022.09 ~ 2022.12</td>
   </tr>
   <tr>
@@ -130,7 +130,7 @@
     <td>1</td>
     <td><b>얼굴인식 자동 선반</b></td>
     <td>얼굴 인식으로 사용자별 물품 자동 분류·제공</td>
-    <td>CAD(CATIA), 기구설계</td>
+    <td>CAD(CATIA), 기구 및 하드웨어 설계, Arduino</td>
     <td>2022.03 ~ 2022.06</td>
   </tr>
 </table>

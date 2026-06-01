@@ -173,4 +173,4 @@
 ## 📬 Contact
 
 - 📧 **Email**: [sunq0726@gmail.com](mailto:sunq0726@gmail.com)
-- 💼 **Portfolio**: [https://coal-cirrus-938.notion.site/_-_-_-3723af84e2a68007bbffcf523c735375?source=copy_link]
+- 💼 **Portfolio**: [https://coal-cirrus-938.notion.site/sungyu-portfolio]

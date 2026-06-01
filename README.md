@@ -68,7 +68,7 @@
     <td>4</td>
     <td><b>🔄 ALFRED</b></td>
     <td>교통허브 내 다중 AMR 릴레이 에스코트 시스템</td>
-    <td>ROS2, Nav2, 멀티로봇</td>
+    <td>ROS2, PythonNav2, 멀티로봇</td>
     <td>2026.05.29 ~ 2026.06.12</td>
     <td><i>진행중</i></td>
   </tr>
@@ -83,7 +83,7 @@
   <tr>
     <td>2</td>
     <td><b>🔧 Doob-E</b></td>
-    <td>공구 인식 및 정리 어시스턴트 로봇</td>
+    <td>공구 정리 어시스턴트 로봇</td>
     <td>ROS2, YOLO(OBB, Keypoints), Python</td>
     <td>2026.04.28 ~ 2026.05.13</td>
     <td><a href="https://github.com/sungyu-sung/doob-e">GitHub</a></td>
@@ -91,7 +91,7 @@
   <tr>
     <td>1</td>
     <td><b>🍧 어미새</b></td>
-    <td>컵빙수 자동 제조 로봇</td>
+    <td>컵빙수 제조 로봇</td>
     <td>ROS2, Python</td>
     <td>2026.04.14 ~ 2026.04.27</td>
     <td><a href="https://github.com/sungyu-sung/mother_bird">GitHub</a></td>
@@ -116,21 +116,21 @@
     <td>3</td>
     <td><b>실내 자율주행 배달 AMR</b></td>
     <td>실내 환경 자율주행 물품 배달 로봇</td>
-    <td>ROS, SLAM, Python, System Integration</td>
+    <td>ROS, Python, SLAM, STT, CV(Face Detection)</td>
     <td>2022.09 ~ 2022.12</td>
   </tr>
   <tr>
     <td>2</td>
     <td><b>CV기반 지하철 승객 분산 시스템</b></td>
     <td>카메라 기반 혼잡도 분석 및 분산 안내 시스템</td>
-    <td>Python, CNN</td>
+    <td>Python, CV(Crowd Counting)</td>
     <td>2022.03 ~ 2022.06</td>
   </tr>
   <tr>
     <td>1</td>
     <td><b>얼굴인식 자동 선반</b></td>
     <td>얼굴 인식으로 사용자별 물품 자동 분류·제공</td>
-    <td>CATIA</td>
+    <td>CAD(CATIA), 기구설계</td>
     <td>2022.03 ~ 2022.06</td>
   </tr>
 </table>
@@ -147,7 +147,7 @@
                    └ 🏅 국방부장관상 수상 (6.25 전사자 유해발굴 공로)
 
 2025.12 ~ 2026.06  두산로보틱스 ROKEY 부트캠프 7기 (진행중)
-                   └ 4개 팀 프로젝트 전원 PM(팀장) 담당
+                   └ 4개 팀 프로젝트 모두 PM(팀장) 담당
 ```
 
 ---

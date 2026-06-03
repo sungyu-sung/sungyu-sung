@@ -24,6 +24,13 @@
 
 ---
 
+## 📬 Contact
+
+- 📧 **Email**: [sunq0726@gmail.com](mailto:sunq0726@gmail.com)
+- 💼 **Portfolio**: [https://coal-cirrus-938.notion.site/sungyu-portfolio]
+
+---
+
 ## 🛠️ Tech Stack
 
 **[ Robotics & Framework ]**
@@ -167,10 +174,3 @@
 ## 📊 GitHub Activity
 
 [![sungyu-sung's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sungyu-sung&bg_color=ffffff&color=00568B&line=22314E&point=77B900&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📬 Contact
-
-- 📧 **Email**: [sunq0726@gmail.com](mailto:sunq0726@gmail.com)
-- 💼 **Portfolio**: [https://coal-cirrus-938.notion.site/sungyu-portfolio]

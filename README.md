@@ -27,7 +27,7 @@
 ## 📬 Contact
 
 - 📧 **Email**: [sunq0726@gmail.com](mailto:sunq0726@gmail.com)
-- 💼 **Portfolio**: [https://coal-cirrus-938.notion.site/sungyu-portfolio]
+- 💼 **Portfolio**: https://coal-cirrus-938.notion.site/sungyu-portfolio
 
 ---
 
